@@ -1,5 +1,5 @@
 # ExpenseTrackerApp_Project
-App Requirements
+ App Requirements
 
 1. Ask the user to add an expense (name, category, amount)
 2. Save expense entries to a .csv file.
@@ -8,12 +8,12 @@ App Requirements
 5. Show expenses by category
 6. Give the user a rough estimate of how much they have left to spend per day
 
-Tasks
+ Tasks
 1. Create the expense.py class.
 2. Create the expense_tracker.py file and write the main logic for the app.
 3. Run the app to test it.
 
-Topics required
+ Topics required
 
 1. Variables and Datatypes
 2. Operators
